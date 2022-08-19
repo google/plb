@@ -1,4 +1,4 @@
-# TCP-PLB
+# PLB
 
 Protective Load Balancing (PLB) is a host based load balancing mechanism
 for data center networks developed at Google. PLB builds on top of ECMP
@@ -9,7 +9,7 @@ to a different path in the network. More details about PLB are
 available in SIGCOMM 2022 paper:
   https://doi.org/10.1145/3544216.3544226
 
-# Open Source Details
+# TCP-PLB Open Source Details
 
 TCP-PLB was added to open source BBR repository in v2alpha branch with
 the following commit
