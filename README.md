@@ -23,4 +23,4 @@ https://github.com/google/bbr/tree/v2alpha
 
 # Contact
 
-Contact details coming soon
+Please email plb-contact@google.com with any queries
